@@ -33,7 +33,7 @@ O painel utiliza os seguintes campos:
 - **Cidade**: Cidade onde ocorreu a venda.
 - **País**: País da transação.
 
-#Como usar e Requisitos
+# Como usar e Requisitos
 
 - Carregue o painel na sua ferramenta preferida
 - Use os filtros para Ano, Categoria, Canais de Vendas e Regiões para refinar os dados.
