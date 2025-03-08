@@ -16,22 +16,22 @@ Análise de Canais de Vendas : Mostra qual canal de venda é mais utilizado (cat
 # Estrutura de Dados
 O painel utiliza os seguintes campos:
 
-IDVenda : Identificador único de venda.
-Data Venda : Data da transação.
-Ano : Ano da venda.
-Quantidade : Número de unidades vendidas.
-Custo : Custo operacional.
-Valor Venda : Receita gerada pela venda.
-Lucro : Lucro obtido com a venda.
-Canal : Meio de vendas (Catálogo, Online, Revendedor, Loja).
-Produto : Nome do produto.
-Fabricante : Empresa responsável pelo produto.
-Marca : Marca do produto.
-Subcategoria : Subdivisão da categoria do produto.
-Categoria : Categoria geral de produtos.
-Região : Localização geográfica da venda.
-Cidade : Cidade onde ocorreu a venda.
-País : País da transação.
+- IDVenda : Identificador único de venda.
+- Data Venda : Data da transação.
+- Ano : Ano da venda.
+- Quantidade : Número de unidades vendidas.
+- Custo : Custo operacional.
+- Valor Venda : Receita gerada pela venda.
+- Lucro : Lucro obtido com a venda.
+- Canal : Meio de vendas (Catálogo, Online, Revendedor, Loja).
+- Produto : Nome do produto.
+- Fabricante : Empresa responsável pelo produto.
+- Marca : Marca do produto.
+- Subcategoria : Subdivisão da categoria do produto.
+- Categoria : Categoria geral de produtos.
+- Região : Localização geográfica da venda.
+- Cidade : Cidade onde ocorreu a venda.
+- País : País da transação.
 
 #Como usar e Requisitos
 
