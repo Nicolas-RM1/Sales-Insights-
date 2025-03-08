@@ -1,41 +1,40 @@
-# Insights de Vendas
-Este relatório apresenta uma análise detalhada do desempenho de vendas da uma empresa com base nos dados extraídos. Os indicadores-chave de desempenho (KPIs) analisados incluem faturamento, volume de vendas, desempenho por canais de vendas e região, entre outros. Fornecendo uma tomada de decisão precisas e estratégicas 
+# Sales Insights
+This report presents a detailed analysis of a company's sales performance based on extracted data. The key performance indicators (KPIs) analyzed include revenue, sales volume, performance by sales channels and region, among others, providing accurate and strategic decision-making.
 
 
 https://github.com/user-attachments/assets/18b4ccb9-c0e9-4b45-82e6-86dbea6020c3
 
-# Descrição 
-Um dashboard de vendas é uma ferramenta visual que reúne e exibe dados importantes sobre o desempenho das vendas de uma empresa. Ela mostra métricas como volume de vendas, metas alcançadas, receita gerada, desempenho por equipe ou produto, e outros indicadores relevantes. O objetivo é fornecer uma visão clara e rápida para que os gestores e equipes possam tomar decisões mais informadas e elaboradas.
+# Description 
+A sales dashboard is a visual tool that gathers and displays key data on a company's sales performance. It shows metrics such as sales volume, achieved targets, revenue generated, performance by team or product, and other relevant indicators. The goal is to provide a clear and quick overview so that managers and teams can make more informed and well-structured decisions.
 
-# Características
-- **Visão geral dos produtos**: Quantidades de vendas, lucros e custos.
-- **Dados Por Região**: Identificação de alto e baixo desempenho das regiões (America do Norte, Europa e Ásia)
-- **Desempenho Por Marcas**: Exibe qual marca mais vendeu por produto e região
-- **Análise de Canais de Vendas**: Mostra qual canal de venda é mais utilizado (catálogo, online, lojas fisicas e revendas)
+# Features
+- **Product Overview**: Sales quantities, profits, and costs.
+- **Data by Region**: Identification of high and low-performing regions (North America, Europe, and Asia).
+- **Performance by Brands**:  Displays which brand had the highest sales by product and region.
+- **Sales Channel Analysis**: Shows which sales channel is most used (catalog, online, physical stores, and resellers).
 
-# Estrutura de Dados
-O painel utiliza os seguintes campos:
+## Data Structure
+The dashboard utilizes the following fields:
+- **IDVenda**: Unique sale identifier.
+- **Data Venda**: Transaction date.
+- **Ano**: Year of sale.
+- **Quantidade**: Number of units sold.
+- **Custo**: Operational cost.
+- **Valor Venda**: Revenue generated from the sale.
+- **Lucro**: Profit obtained from the sale.
+- **Canal**: Sales medium (Catálogo, Online, Reseller, Store).
+- **Produto**: Product name.
+- **Fabricante**: Company Responsible for the Product.
+- **Marca**: Product brand.
+- **Sub-Categoria**: Subdivision of the product category.
+- **Categoria**: General product category.
+- **Região**: Geographical location of the sale.
+- **Cidade**: City where the sale occurred.
+- **País**: Country of the transaction.
 
-- **IDVenda**: Identificador único de venda.
-- **Data Venda**: Data da transação.
-- **Ano**: Ano da venda.
-- **Quantidade**: Número de unidades vendidas.
-- **Custo**: Custo operacional.
-- **Valor Venda**: Receita gerada pela venda.
-- **Lucro**: Lucro obtido com a venda.
-- **Canal**: Meio de vendas (Catálogo, Online, Revendedor, Loja).
-- **Produto**: Nome do produto.
-- **Fabricante**: Empresa responsável pelo produto.
-- **Marca**: Marca do produto.
-- **Subcategoria**: Subdivisão da categoria do produto.
-- **Categoria**: Categoria geral de produtos.
-- **Região**: Localização geográfica da venda.
-- **Cidade**: Cidade onde ocorreu a venda.
-- **País**: País da transação.
+# How to Use and Requirements
 
-# Como usar e Requisitos
-
-- Carregue o painel na sua ferramenta preferida
-- Use os filtros para Ano, Categoria, Canais de Vendas e Regiões para refinar os dados.
-- Analise os gráficos e métricas para obter insights estratégicos.
-- Requisitos : Software compatível com visualização de dados e dados formatados corretamente
+- Load the dashboard in your preferred tool.
+- Use filters for Year, Category, Sales Channels, and Regions to refine the data
+- Analyze charts and metrics to gain strategic insights.
+- Requirements: Software compatible with data visualization and correctly formatted data.
