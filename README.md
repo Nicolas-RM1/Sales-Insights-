@@ -35,6 +35,6 @@ The dashboard utilizes the following fields:
 # How to Use and Requirements
 
 - Load the dashboard in your preferred tool.
-- Use filters for Year, Category, Sales Channels, and Regions to refine the data
+- Use filters for Year, Category, Sales Channels, and Regions to refine the data.
 - Analyze charts and metrics to gain strategic insights.
 - Requirements: Software compatible with data visualization and correctly formatted data.
